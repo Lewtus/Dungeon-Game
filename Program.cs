@@ -95,7 +95,7 @@ namespace gam
                 }
                 else if (input.ToLower() == "controls" || input.ToLower() == "c" || input.ToLower() == "controls and instructions" || input.ToLower() == "controlsandinstructions")
                 {
-                    OutputControlsAndInstructions(hallOfHeroesFileLocation, seed, false);
+                    OutputControlsAndInstructions();
                     StarterText();
                 }
                 else if (input.ToLower() == "quit" || input.ToLower() == "q")
@@ -123,10 +123,10 @@ namespace gam
                 Console.WriteLine(heroData);
             }
             heroesFile.Close();
-            Init(hallOfHeroesFileLocation,seed);
+            StarterText();
         }
 
-        static void OutputControlsAndInstructions(string hallOfHeroesFileLocation, int seed, bool gameStarted)
+        static void OutputControlsAndInstructions()
         {
             //this will display how to play the game
             Console.WriteLine("Instructions:");
@@ -360,7 +360,7 @@ namespace gam
                     }
                     else if (input.ToLower() == "controls" || input.ToLower() == "c" || input.ToLower() == "controls and instructions" || input.ToLower() == "controlsandinstructions")
                     {
-                        OutputControlsAndInstructions(hallOfHeroesFileLocation, seed, true);
+                        OutputControlsAndInstructions();
                     }
                     else if (input.ToLower() == "eat" || input.ToLower() == "ea")
                     {
