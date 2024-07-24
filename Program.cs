@@ -11,8 +11,6 @@ namespace gam
     {
         static void Main(string[] args)
         {
-            //TODO:
-            //Replace with relative path of install location
             string hallOfHeroesFileRoot = AppDomain.CurrentDomain.BaseDirectory;
             string hallOfHeroesFileName = @"HallofHeroes";
             string hallOfHeroesFileLocation = hallOfHeroesFileRoot + hallOfHeroesFileName + ".txt";

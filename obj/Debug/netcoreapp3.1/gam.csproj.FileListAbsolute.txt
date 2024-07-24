@@ -1,0 +1,14 @@
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\bin\Debug\netcoreapp3.1\gam.exe
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\bin\Debug\netcoreapp3.1\gam.deps.json
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\bin\Debug\netcoreapp3.1\gam.runtimeconfig.json
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\bin\Debug\netcoreapp3.1\gam.runtimeconfig.dev.json
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\bin\Debug\netcoreapp3.1\gam.dll
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\bin\Debug\netcoreapp3.1\gam.pdb
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.csproj.AssemblyReference.cache
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.AssemblyInfoInputs.cache
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.AssemblyInfo.cs
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.csproj.CoreCompileInputs.cache
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.dll
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.pdb
+C:\Users\mille\Documents\Dungeon-Game\Dungeon-Game\obj\Debug\netcoreapp3.1\gam.genruntimeconfig.cache
